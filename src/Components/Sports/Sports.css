@@ -1,0 +1,74 @@
+.singaldiv{
+     width: 80%;
+     margin: auto;
+     display: flex;
+     margin-top: 10px;
+     margin-bottom: 10px;
+    
+}
+.singalImg{
+     width: 100%;
+     cursor: pointer;
+}
+
+
+.maindivs{
+     width: 80%;
+     margin: auto;
+     display: flex;
+     margin-top: 50px;
+}
+.filtersDiv{
+     width: 30%;
+     display: flex;
+}
+.Activitiesdiv{
+     width: 100%;
+}
+.filter{
+     margin: 20px 20px 30px 0px;
+}
+.activities{
+     margin: 20px 0px 30px 0px;
+}
+.btn_section{
+     display: flex;
+     gap: 20px;
+     margin: 20px;
+ }
+
+.sportBtn{
+     padding: 5px 5px;
+    width: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid gray;
+
+}
+.activeSportBtn{
+     background-color: #DC354B;
+     color: #fff;
+     border: none;
+}
+h2{
+     font-size: 24px;
+     font-weight: 700;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.allImages{
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     margin-top:30px ;
+}
+.Activitiesimages{
+     width: 190px;
+     border-radius: 15px;
+     cursor: pointer;
+}
+.ActivitesPara{
+     width: 190px;
+     cursor: pointer;
+     margin-left: 10px;
+}

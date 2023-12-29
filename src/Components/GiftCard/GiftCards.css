@@ -1,0 +1,50 @@
+.bigcontainer{
+     margin-top: 10px;
+     display: flex;
+     flex-direction: column;
+ }
+ .singleimg{
+     width: 90%;
+     margin: auto;
+ }
+
+
+.allimgescard{
+     display: flex;
+     width: 100%;
+     margin-left: 47px;
+     flex-direction: row;
+     flex-wrap: wrap;
+     gap: 20px;
+     margin-top: 10px;
+}
+.allimges{
+     width: 300px;
+}
+
+.allbtn{
+     width: auto;
+     margin: auto;
+     
+}
+.btn_section{
+     display: flex;
+     gap: 20px;
+     margin: 20px;
+}
+
+.giftCardBtns{
+     padding: 5px 12px;
+     width: 80px;
+     border-radius: 10px;
+     cursor: pointer;
+     border: 1px solid gray;
+
+     
+}
+.giftCardBtns:hover ,.giftBtnActive{
+background-color: red;
+color: #fff;
+border:  1px solid transparent;
+
+}
