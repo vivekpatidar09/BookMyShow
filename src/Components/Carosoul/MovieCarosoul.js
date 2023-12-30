@@ -32,7 +32,7 @@ const carosoulImages = [
                }else{
                     SetImageIndex(imageIndex -1 )
                }
-          }}>Prev<i className="fa-solid fa-arrow-left"></i></button>
+          }}>❮<i className="fa-solid fa-arrow-left"></i></button>
           <img className='Moviecarosoulimages' src={carosoulImages[imageIndex]} />
           <button onClick={() =>{
                if(imageIndex === carosoulImages.length - 1 ){
@@ -40,7 +40,7 @@ const carosoulImages = [
                }else{
                     SetImageIndex(imageIndex + 1)
                }
-          }}>Next<i className="fa-solid fa-arrow-right"></i>
+          }}>❯<i className="fa-solid fa-arrow-right"></i>
           </button>
           
          </div>

@@ -216,7 +216,7 @@ function GiftCards() {
         />
       </div>
       <div className='allbtn'>
-        <p>Pack a card from one of our themes</p>
+        <h3>Pack a card from one of our themes</h3>
 
 
         <section className="btn_section">

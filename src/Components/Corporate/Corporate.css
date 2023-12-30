@@ -3,10 +3,19 @@
      justify-content: space-evenly;
    }
    .crimg {
-     width: 80%;
+     width: 100%;
      background-color: white;
      margin: auto;
    }
    li {
      margin: 40px;
+   }
+
+   .crp{
+    display: flex;
+    justify-content: center;
+   }
+
+   .crp div{
+    margin: 30px;
    }

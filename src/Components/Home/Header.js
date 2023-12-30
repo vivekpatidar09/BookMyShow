@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import Shows from './Shows'
 import './Header.css'
 
@@ -43,7 +45,7 @@ function Header() {
                     else{
                       setImgCount(imgcount - 1)
                     }
-                    }}>Prev</button>
+                    }}>❮</button>
 
                   </div>
                    <div>
@@ -55,7 +57,7 @@ function Header() {
                     }
                     else{
                       setImgCount(imgcount + 1)
-                    }}}>Next</button>
+                    }}}>❯</button>
                   </div>          
                 </div>
 

@@ -15,7 +15,6 @@ import Sports from './Components/Sports/Sports';
 import Offers from './Components/Offers/Offers';
 import GiftCards from './Components/GiftCard/GiftCards';
 
-
 function App() {
   return (
     <div className="App">

@@ -1,7 +1,7 @@
 .allofferscard{
      display: flex;
      flex-wrap: wrap;
-     height: 2800px;
+     height: 2200px;
      background-color:#F2F2F2;
 }
 .div{
@@ -9,7 +9,7 @@
 
 }
 .offerImg{
-     width: 240px;
+     width: 200px;
      cursor: pointer;
      border-radius: 7px 7px 0px 0px;
 }

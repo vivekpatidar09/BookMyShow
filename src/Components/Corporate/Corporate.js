@@ -18,6 +18,18 @@ function Corporate() {
         item: "6000",
         item2: "Screens",
       },
+      {
+        item: "1000+",
+        item2: "COURPORATES WHO TRUST US",
+      },
+      {
+        item: "15 MILLION+",
+        item2: " TICKET SOLD PER MONTH",
+      },
+      {
+        item: "4 Billion",
+        item2: "PAGE VIEWS PER MONTH",
+      },
     ],
   };
 

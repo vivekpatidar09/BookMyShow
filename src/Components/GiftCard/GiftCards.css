@@ -36,6 +36,7 @@
 .giftCardBtns{
      padding: 5px 12px;
      width: 80px;
+     font-size: 14px;
      border-radius: 10px;
      cursor: pointer;
      border: 1px solid gray;
@@ -47,4 +48,9 @@ background-color: red;
 color: #fff;
 border:  1px solid transparent;
 
+}
+
+.allbtn h3{
+     display: flex;
+     justify-content: center;
 }
